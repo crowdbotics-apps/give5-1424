@@ -1,0 +1,3 @@
+rootProject.name = 'give5_1424'
+
+include ':app'
